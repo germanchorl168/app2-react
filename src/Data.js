@@ -12,14 +12,14 @@ const data = {
         id: "2",
       name: "Portatil HP 2020",
       description: "Amd atho",
-      img: require("../src/assets/img/Hp.jfif"),
+      img: require("../src/assets/img/HP.png"),
       price: "4.000.000",
     },
     {
         id: "3",
       name: "Lenovo ideapad L340",
       description: "I5 900hc- 8gb Ram-512gb",
-      img: require("../src/assets/img/Lenovo.jfif"),
+      img: require("../src/assets/img/lenovo.png"),
       price: "3.452.000",
     },
     {
